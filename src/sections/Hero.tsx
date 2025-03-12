@@ -97,7 +97,7 @@ export const HeroSection = () => {
       <div className='flex flex-col md:flex-row justify-center items-center mt-8 gap-4'>
         <button className='inline-flex items-center gap-2 border border-white/15 px-6 h-12 rounded-xl z-10 '>
     
-        <a href="https://drive.google.com/file/d/12ZvcQD-fdXXTJswR3c2phuU_b9oQ5bYw/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1rj1CVS6zL_6wJAnqbQp9Apw7e0NxsSo3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <span className="font-semibold">Download Resume</span>
 </a>
 
