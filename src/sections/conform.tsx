@@ -78,6 +78,7 @@ export const ContactPage2 = () => {
 
     if (data) {
       setSubmitted(true);
+      form.reset();
     }
     if (error) {
       console.log("Error:", error); // Log any error

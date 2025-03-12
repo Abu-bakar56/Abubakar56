@@ -2,7 +2,7 @@ import multiragchatbot from "@/assets/images/multi rag chatbot.jpg";
 import chestproject from "@/assets/images/chest project.jpg";
 import MovieRecommenderSystem from "@/assets/images/Movie Recommender System.jpg";
 import  MultiDomainChatbot  from "@/assets/images/Multi-Domain Chatbot.jpg"; 
-import   StockPricePredictionForecasting from "@/assets/images/Stock Price Prediction & Forecasting.jpg";
+import   StockPricePredictionForecasting from "@/assets/images/Stock Price.jpg";
 import CustomerChurnPredictor from "@/assets/images/Customer Churn Predictor.jpg";
 import Image from "next/image";
 import CheckCircleIcon from '@/assets/icons/check-circle.svg';
