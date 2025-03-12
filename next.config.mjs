@@ -43,9 +43,13 @@ const nextConfig = {
 
     return config;
   },
+  // experimental: {
+  //   serverActions: true,
+  // },
   experimental: {
-    serverActions: true,
-  },
+    serverActions: {}
+  }
+  
 };
 
 export default nextConfig;
