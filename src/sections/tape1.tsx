@@ -7,7 +7,7 @@ import TensorFlowIcon from '@/assets/icons/tensorflow-icon.svg';
 import PyTorchIcon from '@/assets/icons/pytorch-icon.svg';
 import LLMIcon from '@/assets/icons/artificial-intelligence-ai-icon.svg';
 // import LangChainIcon from '@/assets/icons/Langchain.svg';
-import langchainIcon from '@/assets/icons/langchain.svg';
+import langchainIcon from '@/assets/icons/lang.svg';
 
 import JupyterIcon from '@/assets/icons/jupyter.svg';
 import AIAgentsIcon from '@/assets/icons/multi-agent-vector-53603749.svg';

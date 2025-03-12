@@ -23,7 +23,7 @@ import MLOpsIcon from '@/assets/icons/mlops.svg';
 import TensorFlowIcon from '@/assets/icons/tensorflow-icon.svg';
 import PyTorchIcon from '@/assets/icons/pytorch-icon.svg';
 import LLMIcon from '@/assets/icons/artificial-intelligence-ai-icon.svg';
-import LangChainIcon from '@/assets/icons/Langchain.svg';
+import LangChainIcon from '@/assets/icons/lang.svg';
 import jupyterIcon from '@/assets/icons/jupyter.svg';
 import AIAgentsIcon from '@/assets/icons/multi-agent-vector-53603749.svg';
 import HuggingFaceIcon from '@/assets/icons/Hugging Face_idJ6-I79C__0.svg';
