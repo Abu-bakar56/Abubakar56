@@ -11,7 +11,7 @@ import langchainIcon from '@/assets/icons/lang.svg';
 
 import JupyterIcon from '@/assets/icons/jupyter.svg';
 import AIAgentsIcon from '@/assets/icons/multi-agent-vector-53603749.svg';
-import aboutpa from '@/assets/images/about.jpeg'; // Ensure the path is correct based on your project setup.
+import aboutpa from '@/assets/images/pic.jpg'; // Ensure the path is correct based on your project setup.
 
 import HuggingFaceIcon from '@/assets/icons/Hugging Face_idJ6-I79C__0.svg';
 import RAGIcon from '@/assets/icons/rag.svg';

@@ -1,5 +1,5 @@
 import Image from 'next/image'; // Import the Image component from Next.js
-import aboutpa from '@/assets/images/about.jpeg'; // Ensure the path is correct based on your project setup.
+import aboutpa from '@/assets/images/about (1).jpg'; // Ensure the path is correct based on your project setup.
 import ArrowUpRightIcon from '@/assets/icons/arrow-right-solid.svg';
 import Link from 'next/link';
 export const AboutMePage = () => {
